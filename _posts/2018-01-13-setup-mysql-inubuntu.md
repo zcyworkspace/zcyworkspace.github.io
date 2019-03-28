@@ -3,7 +3,7 @@ layout: post
 title:  "Ubuntu 16.04 下MySQL的安装"
 categories: linux
 tags:  linux ubuntu16.04 工具软件  
-author: SnakeSon
+author: zcy
 ---
 
 * content
@@ -33,7 +33,7 @@ author: SnakeSon
 按enter键后会让我们输入密码，当我们输入密码后，会出现：
 ```js
 
-snakeson@snakeson-Inspiron-5421:~$ mysql -u root -p
+zcy@zcy-Inspiron-5421:~$ mysql -u root -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 5

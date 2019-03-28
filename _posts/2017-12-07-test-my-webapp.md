@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "这是徐代龙进行的第二篇文章"
-categories: SnakeSon
+categories: zcy
 tags:  hexo JavaScript
-author: SnakeSon
+author: zcy
 ---
 
 * content
