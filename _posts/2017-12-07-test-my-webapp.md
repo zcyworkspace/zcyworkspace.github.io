@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "这是徐代龙进行的第二篇文章"
+title:  "这是第二篇文章"
 categories: zcy
 tags:  hexo JavaScript
 author: zcy
